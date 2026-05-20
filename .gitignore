@@ -1,0 +1,10 @@
+build/
+.vscode/*.db
+compile_commands.json
+
+*.exe
+*.o
+*.obj
+*.ilk
+*.pdb
+*.dll

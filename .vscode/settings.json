@@ -1,0 +1,23 @@
+{
+    "editor.formatOnSave": true,
+
+    "editor.tabSize": 4,
+
+    "editor.insertSpaces": true,
+
+    "files.encoding": "utf8",
+
+    "files.eol": "\n",
+
+    "cmake.configureOnOpen": true,
+
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+
+    "clangd.arguments": [
+        "--background-index"
+    ],
+
+    "[c]": {
+        "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
+    }
+}
